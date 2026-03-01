@@ -6,6 +6,13 @@
 
 - title: "Events"
   href: "/events/"
+  subcategories:
+    - subtitle: "Wells Fargo Conference 2023"
+      subhref: "/conferences/2023/"
+    - subtitle: "Wells Fargo Conference 2022"
+      subhref: "/conferences/2022/"
+    - subtitle: "Wells Fargo Conference 2021"
+      subhref: "/conferences/2021/"
 
 - title: "News"
   href: "/news/"
