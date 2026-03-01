@@ -10,7 +10,19 @@ The Data Science Institute hosts seminars, workshops, and conferences throughout
 
 * Events listings coming soon. Check back for updates.
 
-**Past Events**
+**Temple – Wells Fargo Data Science Conference**
+
+The annual Temple – Wells Fargo Data Science Conference is organized by the Data Science Institute in partnership with Wells Fargo Equity Finance. The conference brings together leading faculty from top research universities and industry practitioners to discuss advances in statistical machine learning, deep learning, and artificial intelligence—with particular emphasis on applications in systematic investing and quantitative finance.
+
+| Year | Date | Location |
+|------|------|----------|
+| [2023](/conferences/2023/) | November 2, 2023 | Fox School of Business, Temple University |
+| [2022](/conferences/2022/) | November 10, 2022 | Temple University |
+| [2021](/conferences/2021/) | November 10, 2021 | The Union League of Philadelphia |
+
+Video recordings of past conference sessions are available on the [Fox School of Business YouTube channel](https://www.youtube.com/@thefoxschool/playlists).
+
+**Other Past Events**
 
 * DSI Launch Symposium, Temple University, Philadelphia, PA.
 
