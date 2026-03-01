@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Industry Affiliates
+title: Affiliates
 permalink: /industry-affiliates/
 ---
 
